@@ -1,0 +1,19 @@
+{
+  "name": "svelte-project",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "svelte-kit dev",
+    "build": "svelte-kit build",
+    "preview": "svelte-kit preview"
+  },
+  "devDependencies": {
+    "svelte": "^3.0.0",
+    "svelte-kit": "^1.0.0",
+    "tailwindcss": "^2.0.0",
+    "autoprefixer": "^10.0.0",
+    "postcss": "^8.0.0"
+  },
+  "dependencies": {
+    "tauri": "^1.0.0"
+  }
+}

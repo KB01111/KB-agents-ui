@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "build": "python -m venv .venv && source .venv/bin/activate && pip install openai-agents",
+    "test": "pip install -r requirements.txt && pytest"
+  }
+}
