@@ -1,2 +1,1 @@
-# KB-agents-ui
-A repository for building a UI in Svelte with Tauri for controlling the OpenAI Agents SDK
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
